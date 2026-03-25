@@ -1,6 +1,7 @@
 # Personal Portfolio
 
 A personal portfolio website showcasing my projects, technical skills, and experience in software development, AI, and product design.
+Personal Portfolio Link: http://127.0.0.1:5500/index.html#resume
 
 ## Overview
 
